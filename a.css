@@ -1,4 +1,23 @@
 body {
+    text-align: center;
     color: yellow;
     background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-shadow: 0px 12px #e6b800;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+p {
+    margin: auto;
+    width: 250px;
 }
