@@ -1,12 +1,19 @@
+@font-face {
+    font-family: starJedi;
+    src: url('/fonts/starjedi.ttf') format('truetype');
+}
+
 body {
+    font: 15px verdana, sans-serif;
     text-align: center;
     color: yellow;
     background-color: black;
 }
 
 h1 {
-    text-transform: uppercase;
-    text-shadow: 0px 12px #e6b800;
+    text-transform: capitals;
+    font-family: 'starJedi', sans-serif;
+    font-size: 400%;
 }
 
 h3 {
@@ -14,10 +21,12 @@ h3 {
 }
 
 ul {
-    list-style-position: inside;
+    margin: auto;
+    width: 100px;
 }
 
 p {
+    text-align: justify;
     margin: auto;
     width: 250px;
 }
