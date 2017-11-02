@@ -1,0 +1,24 @@
+body {
+    font: 15px lucida console, sans-serif;
+    text-align: left;
+    color: #00cc00;
+    background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 400%;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+p {
+    text-align: justify;
+    width: 250px;
+}

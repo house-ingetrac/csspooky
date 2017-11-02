@@ -7,13 +7,17 @@ body {
     font: 15px verdana, sans-serif;
     text-align: center;
     color: yellow;
-    background-color: black;
+    background-image: url("stars.jpg");
 }
 
 h1 {
     text-transform: capitals;
     font-family: 'starJedi', sans-serif;
     font-size: 400%;
+}
+
+h2 {
+    text-transform: uppercase;
 }
 
 h3 {
