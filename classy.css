@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+
+body {
+    color: #333300;
+    font-family: 'Josefin Slab', serif;
+    background-color: #ffffee;
+}
+
+.prose {
+    width: 800;
+}
+
+a, a:link {
+    color: #666600;
+}
+
+a:hover {
+    color: #999900;
+}
+
+ul{
+ list-style-type: circle;
+}
